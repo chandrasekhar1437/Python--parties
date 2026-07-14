@@ -1,2 +1,2 @@
-# Python- parties
+# Python- practice
 Python full course codes
