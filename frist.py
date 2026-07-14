@@ -1,0 +1,9 @@
+print("hello")
+print("welcome")
+a=2
+id(a)
+print(id(a))
+print(a)
+a1=20
+print(a1)
+a=3

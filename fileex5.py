@@ -1,0 +1,16 @@
+# program to demonstrate all + modes on files in python
+with open("abc2.txt","r+")as f:
+    print(f.tell())
+    print(f.readline())
+    print(f.tell())
+    print(f.readline())
+    print(f.tell())
+    print(f.readline())
+    print(f.tell())
+    print(f.readline())
+    f.write("chandu")
+    print(f.tell())
+    print(f.readline())
+    print(f.tell())
+    print(f.readline())
+    f.write(" python traning")

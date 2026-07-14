@@ -1,0 +1,4 @@
+hello
+today
+we are learning about read and write operations
+in file in picked a
